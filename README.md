@@ -1,5 +1,5 @@
 ### Allexis Alvarico
-Hello there! Welcome to my github page. I have a BS(hons) on Games Development in ITCarlow now SETU Carlow (Course code: CW208).
+Hello there! Welcome to my github page. I have a BS(hons) degree on Games Development in ITCarlow now SETU Carlow (Course code: CW208).
 I’m currently learning Java, Python and also C++.
 ## Running Modules:
 - Real World Simulation
